@@ -1,0 +1,19 @@
+#div1{
+    background-color: tomato;
+    height: 400px;
+    width: 250px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    display: inline-block;
+    
+}
+#div2{
+    background-color: rgb(89, 71, 255);
+    height: 400px;
+    width: 250px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    display: inline-block;
+}
